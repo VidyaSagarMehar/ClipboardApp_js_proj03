@@ -4,7 +4,7 @@
 ## 🚀 I'm a front-end developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Project Title - Clipborad app Javascript Project 03
+## Project Title - Clipborad app Javascript Project
 
 A JavaScript Clipboard project where you can copy the text to the clipboard by clicking the the copy button.
 
